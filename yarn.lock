@@ -260,7 +260,7 @@
     "@vue/compiler-core" "3.0.0-beta.20"
     "@vue/shared" "3.0.0-beta.20"
 
-"@vue/compiler-sfc@^3.0.0-beta.14", "@vue/compiler-sfc@^3.0.0-beta.15":
+"@vue/compiler-sfc@^3.0.0-beta.14":
   version "3.0.0-beta.20"
   resolved "https://registry.yarnpkg.com/@vue/compiler-sfc/-/compiler-sfc-3.0.0-beta.20.tgz#8ffe1a31e709713708fb625cae62e7efdae90b14"
   integrity sha512-n5bNvZCxvzGJqH2EXsurmzJDHnimOi93ezoeJTOguqNG2XYiiN+IOwzoOy+eYGem945FtKcgvawPhUMr5vPFug==
@@ -832,9 +832,9 @@ fill-range@^7.0.1:
     to-regex-range "^5.0.1"
 
 follow-redirects@^1.0.0:
-  version "1.12.1"
-  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.12.1.tgz#de54a6205311b93d60398ebc01cf7015682312b6"
-  integrity sha512-tmRv0AVuR7ZyouUHLeNSiO6pqulF7dYa3s19c6t+wz9LD69/uSzdMxJ2S91nTI9U3rt/IldxpzMOFejp6f0hjg==
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
+  integrity sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==
 
 fresh@~0.5.2:
   version "0.5.2"
@@ -2012,7 +2012,7 @@ vite@^1.0.0-beta.3:
     vue "^3.0.0-beta.14"
     ws "^7.2.3"
 
-vue@^3.0.0-beta.14, vue@^3.0.0-beta.15:
+vue@^3.0.0-beta.14:
   version "3.0.0-beta.20"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.0.0-beta.20.tgz#34a7907cfbdc65b6b8c61fb4d7656f4aa6bf1fff"
   integrity sha512-JmfvMwZQ/bsEF5YBDdYqZzpp4M8dSninyGxG2bHUlpS4Y66X/pduw2GpGE61xxgfrp2KM5cI9ryRpsNHrsf9HA==
