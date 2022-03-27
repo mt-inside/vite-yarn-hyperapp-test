@@ -260,7 +260,7 @@
     "@vue/compiler-core" "3.0.0-beta.20"
     "@vue/shared" "3.0.0-beta.20"
 
-"@vue/compiler-sfc@^3.0.0-beta.14", "@vue/compiler-sfc@^3.0.0-beta.15":
+"@vue/compiler-sfc@^3.0.0-beta.14":
   version "3.0.0-beta.20"
   resolved "https://registry.yarnpkg.com/@vue/compiler-sfc/-/compiler-sfc-3.0.0-beta.20.tgz#8ffe1a31e709713708fb625cae62e7efdae90b14"
   integrity sha512-n5bNvZCxvzGJqH2EXsurmzJDHnimOi93ezoeJTOguqNG2XYiiN+IOwzoOy+eYGem945FtKcgvawPhUMr5vPFug==
@@ -1393,9 +1393,9 @@ minimatch@^3.0.4:
     brace-expansion "^1.1.7"
 
 minimist@^1.2.0, minimist@^1.2.5:
-  version "1.2.5"
-  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
+  version "1.2.6"
+  resolved "https://registry.yarnpkg.com/minimist/-/minimist-1.2.6.tgz#8637a5b759ea0d6e98702cfb3a9283323c93af44"
+  integrity sha512-Jsjnk4bw3YJqYzbdyBiNsPWHPfO++UGG749Cxs6peCu5Xg4nrena6OVxOYxrQTqww0Jmwt+Ref8rggumkTLz9Q==
 
 ms@2.0.0:
   version "2.0.0"
@@ -2012,7 +2012,7 @@ vite@^1.0.0-beta.3:
     vue "^3.0.0-beta.14"
     ws "^7.2.3"
 
-vue@^3.0.0-beta.14, vue@^3.0.0-beta.15:
+vue@^3.0.0-beta.14:
   version "3.0.0-beta.20"
   resolved "https://registry.yarnpkg.com/vue/-/vue-3.0.0-beta.20.tgz#34a7907cfbdc65b6b8c61fb4d7656f4aa6bf1fff"
   integrity sha512-JmfvMwZQ/bsEF5YBDdYqZzpp4M8dSninyGxG2bHUlpS4Y66X/pduw2GpGE61xxgfrp2KM5cI9ryRpsNHrsf9HA==
